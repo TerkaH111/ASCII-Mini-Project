@@ -1,3 +1,3 @@
 # ASCII-Mini-Project
 
-My ASCII Mini Project. Converting the image into Ascii chars. Unfortunatelly, it's not working properly. The code doesn't draw image in Ascii chars, but only covers the picture. I hope to figure out the solution asap:) 
+My ASCII Mini Project. Converting the image into ASCII characters. Unfortunately, it's not working properly. The code doesn't draw the image using ASCII characters; instead, it only covers the picture. Hope to figure out the solution asap :)
